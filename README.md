@@ -1,0 +1,4 @@
+mazes
+=====
+
+various maze algorithms
